@@ -1,0 +1,6 @@
+E:/dev/cpp_projects/clion_projects/cpp_26_fun/cmake-build-debug/CMakeFiles/main.dir
+E:/dev/cpp_projects/clion_projects/cpp_26_fun/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/dev/cpp_projects/clion_projects/cpp_26_fun/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/dev/cpp_projects/clion_projects/cpp_26_fun/cmake-build-debug/src/CMakeFiles/src.dir
+E:/dev/cpp_projects/clion_projects/cpp_26_fun/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+E:/dev/cpp_projects/clion_projects/cpp_26_fun/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
